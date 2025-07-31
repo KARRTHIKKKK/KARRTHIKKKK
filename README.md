@@ -3,8 +3,7 @@
 ## 💼 Software Developer | Full Stack Engineer | Problem Solver
  --->
 ## 💼 Trainee Analyst @SandhataTechnologies | Ex - intern @TechMahindra
-I'm a passionate developer who loves building impactful web applications, scalable APIs, and clean, maintainable code. I specialize in crafting solutions using **ASP.NET Core**, **JavaScript**, **SQL**, and **Machine Learning**. Currently, I'm enhancing my expertise in **cloud computing**, **microservices**, and **DevOps practices**.
-
+I'm a passionate developer who loves to learn new technologies and tools. I have knowledge in **ASP.NET Core, Linux commands & shell scripting, SQL**, and **Machine Learning**, as well as **Artificial Intelligence** and **Data Science**. I enjoy building impactful web applications, scalable APIs, and crafting clean, maintainable code.. Currently, I'm enhancing my expertise in **cloud computing**, **microservices**,**MongoDB** and **DevOps practices**.
 ---
 
 ### 🔧 Tech Stack
@@ -42,6 +41,11 @@ I'm a passionate developer who loves building impactful web applications, scalab
 --->
 
 ---
+### 🌍 Some Global Certifications 
+- 🤖 [Microsoft Certified: Azure AI Fundamentals](https://drive.google.com/file/d/1vaJiLIyXfSfK32uB7CBI-uNjXjBcHDzc/view?usp=sharing)
+- 📚 [Google TensorFlow](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/101591406)
+- ☁️ [AWS Academy Cloud Foundations](https://www.credly.com/badges/dd9747c1-351d-4e03-a63f-96778807efb1)
+- 📋 [GitHub Foundations](https://www.credly.com/badges/711b7044-d6e5-4ac8-ac8e-3a7f6e9023ad)
 
 ### 📚 Currently Learning
 
