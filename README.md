@@ -24,7 +24,7 @@ I'm a passionate developer who loves building impactful web applications, scalab
 ### 🚀 Projects
 
 - 🛒 **eCommerce Shoe Store**  
-  Built a **ASP .NET Core 8 MVC eCommerce Application**. A dynamic Shoe Store web app developed using **C#**,**ASP .NET Core 8 MVC**, **Entity Framework Core**, **SQL Server**, Razor Pages, and **Bootstrap** 
+  Built a **ASP .NET Core 8 MVC eCommerce Application**. A dynamic Shoe Store web app developed using **C#**,**ASP .NET Core 8 MVC**, **Entity Framework Core**, **SQL Server**, Razor Pages, and **Bootstrap**
   🔗 [GitHub Repo](https://github.com/KARRTHIKKKK/ASP.NET_Core-8_MVC_eCommerce_Application)  
 
 - 📅 **Events Management API**  
