@@ -33,7 +33,6 @@ I'm a passionate developer who loves building impactful web applications, scalab
 
 - 📈 **Multivariate Time Series Forecasting**  
   This project demonstrates multivariate time series forecasting using two primary models: **LSTM** (Long Short-Term Memory) and **SARIMAX** (Seasonal AutoRegressive Integrated Moving Average with Exogenous Regressors).  
-  The dataset includes features such as **population**, **growth rate**, **population density**, and **dependency ratios**.
   🔗 [GitHub Repo](https://github.com/KARRTHIKKKK/Multivariate-TimeSeries_on_Population)
 
 <!---
@@ -55,8 +54,8 @@ I'm a passionate developer who loves building impactful web applications, scalab
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn** :[Karthikeya Pepeti](https://www.linkedin.com/in/karthikeya-pepeti/)
-- 📧 **Email**    : karthikeyapepeti05@gmail.com
+- 💼 **LinkedIn **:[Karthikeya Pepeti](https://www.linkedin.com/in/karthikeya-pepeti/)
+- 📧 **Email    **: karthikeyapepeti05@gmail.com
 - 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
 
 ---
