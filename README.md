@@ -54,8 +54,8 @@ I'm a passionate developer who loves building impactful web applications, scalab
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn **:[Karthikeya Pepeti](https://www.linkedin.com/in/karthikeya-pepeti/)
-- 📧 **Email    **: karthikeyapepeti05@gmail.com
+- 💼 **LinkedIn** :[Karthikeya Pepeti](https://www.linkedin.com/in/karthikeya-pepeti/)
+- 📧 **Email**    : karthikeyapepeti05@gmail.com
 - 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
 
 ---
