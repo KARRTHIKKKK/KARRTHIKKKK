@@ -3,7 +3,9 @@
 ## 💼 Software Developer | Full Stack Engineer | Problem Solver
  --->
 ## 💼 Trainee Analyst @SandhataTechnologies | Ex - intern @TechMahindra
-I'm a passionate developer who loves to learn new technologies and tools. I have knowledge in **ASP.NET Core, Linux commands & shell scripting, SQL**, and **Machine Learning**, as well as **Artificial Intelligence** and **Data Science**. I enjoy building impactful web applications, scalable APIs, and crafting clean, maintainable code.. Currently, I'm enhancing my expertise in **cloud computing**, **microservices**,**MongoDB** and **DevOps practices**.
+I'm a passionate developer who loves to learn new technologies and tools. I have knowledge in **ASP.NET Core, Linux commands & shell scripting, SQL**, and **Machine Learning**, as well as **Artificial Intelligence** and **Data Science**. 
+I enjoy building impactful web applications, scalable APIs, and crafting clean, maintainable code.. 
+Currently, I'm enhancing my expertise in **cloud computing**, **microservices**,**MongoDB** and **DevOps practices**.
 ---
 
 ### 🔧 Tech Stack
@@ -23,16 +25,13 @@ I'm a passionate developer who loves to learn new technologies and tools. I have
 ### 🚀 Projects
 
 - 🛒 **eCommerce Shoe Store**  
-  Built a **ASP .NET Core 8 MVC eCommerce Application**. A dynamic Shoe Store web app developed using **C#**,**ASP .NET Core 8 MVC**, **Entity Framework Core**, **SQL Server**, Razor Pages, and **Bootstrap**
-  🔗 [GitHub Repo](https://github.com/KARRTHIKKKK/ASP.NET_Core-8_MVC_eCommerce_Application)  
+  Built a **ASP .NET Core 8 MVC eCommerce Application**. A dynamic Shoe Store web app developed using **C#**,**ASP .NET Core 8 MVC**, **Entity Framework Core**, **SQL Server**, Razor Pages, and **Bootstrap**. 🔗 [GitHub Repo](https://github.com/KARRTHIKKKK/ASP.NET_Core-8_MVC_eCommerce_Application)  
 
 - 📅 **Events Management API**  
-  RESTful Web API for managing event data. Built with ASP.NET Core and Entity Framework.  
-  🔗 [GitHub Repo](Blank)
+  RESTful Web API for managing event data. Built with ASP.NET Core and Entity Framework. 🔗 [GitHub Repo](Blank)
 
 - 📈 **Multivariate Time Series Forecasting**  
-  This project demonstrates multivariate time series forecasting using two primary models: **LSTM** (Long Short-Term Memory) and **SARIMAX** (Seasonal AutoRegressive Integrated Moving Average with Exogenous Regressors).  
-  🔗 [GitHub Repo](https://github.com/KARRTHIKKKK/Multivariate-TimeSeries_on_Population)
+  This project demonstrates multivariate time series forecasting using two primary models: **LSTM** (Long Short-Term Memory) and **SARIMAX** (Seasonal AutoRegressive Integrated Moving Average with Exogenous Regressors). 🔗 [GitHub Repo](https://github.com/KARRTHIKKKK/Multivariate-TimeSeries_on_Population)
 
 <!---
 - 🧠 **Machine Learning Projects**  
