@@ -11,13 +11,13 @@ Currently, I'm enhancing my expertise in **cloud computing**, **microservices**,
 ### 🔧 Tech Stack
 
 **Languages**  
-`C#` `Python` `SQL` `HTML` `CSS`
+`C#` `Python` `SQL` `HTML`
 
 **Frameworks & Tools**  
 `.NET Core` `ASP.NET MVC & Web API` `Entity Framework`  
-`React.js` `Bootstrap` `jQuery`  
-`MongoDB` `MySQL` `PostgreSQL`  
-`Git` `GitHub` `Postman` `Docker`  
+`Bootstrap`  
+`MongoDB` `MySQL`   
+`GitHub` `Postman` 
 `VS Code` `Visual Studio` `Jupyter Notebook`
 
 ---
