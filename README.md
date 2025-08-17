@@ -59,7 +59,7 @@ Currently, I'm enhancing my expertise in **cloud computing**, **microservices**,
 
 - 💼 **LinkedIn** : [Karthikeya Pepeti](https://www.linkedin.com/in/karthikeya-pepeti/)
 - 📧 **Email**    : karthikeyapepeti05@gmail.com
-- 🐱 **GitHub:**  : [https://github.com/KARRTHIKKKK]
+- 🐱 **GitHub:**  : [KARRTHIKKKK](https://github.com/KARRTHIKKKK)
 - 🌐 **Portfolio**: [Karthikeya.com](https://karthikeya-portfolio.tiiny.site/)
 
 ---
