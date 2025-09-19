@@ -26,10 +26,10 @@ Currently, I'm enhancing my expertise in **cloud computing**, **microservices**,
 
 - 🛒 **eCommerce Shoe Store**  
   Built a **ASP .NET Core 8 MVC eCommerce Application**. A dynamic Shoe Store web app developed using **C#**,**ASP .NET Core 8 MVC**, **Entity Framework Core**, **SQL Server**, Razor Pages, and **Bootstrap**. 🔗 [GitHub Repo](https://github.com/KARRTHIKKKK/ASP.NET_Core-8_MVC_eCommerce_Application)  
-
+<!---
 - 📅 **Events Management API**  
   RESTful Web API for managing event data. Built with ASP.NET Core and Entity Framework. 🔗 [GitHub Repo](Blank)
-
+--->
 - 📈 **Multivariate Time Series Forecasting**  
   This project demonstrates multivariate time series forecasting using two primary models: **LSTM** (Long Short-Term Memory) and **SARIMAX** (Seasonal AutoRegressive Integrated Moving Average with Exogenous Regressors). 🔗 [GitHub Repo](https://github.com/KARRTHIKKKK/Multivariate-TimeSeries_on_Population)
 
